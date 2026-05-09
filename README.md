@@ -7,15 +7,15 @@ An interactive Arabic-language cultural website introducing Saudi Arabia's regio
 ## Pages
 
 ### Public
-- **Home** — Introduction to Saudi Arabia with region preview cards and dark mode
-- **Gallery** — Browse and filter all regions retrieved from the database
-- **Details** — Full information, landmarks, activities, and image gallery for each region
+- **Home** : Introduction to Saudi Arabia with region preview cards and dark mode
+- **Gallery** : Browse and filter all regions retrieved from the database
+- **Details** : Full information, landmarks, activities, and image gallery for each region
 
 ### Admin Panel
-- **Login** — Secure authentication with session management
-- **Dashboard** — View, edit, and delete all content with confirmation dialogs
-- **Add** — Add new regions with image upload
-- **Update** — Edit existing region information
+- **Login** : Secure authentication with session management
+- **Dashboard** : View, edit, and delete all content with confirmation dialogs
+- **Add** : Add new regions with image upload
+- **Update** : Edit existing region information
 
 ---
 
