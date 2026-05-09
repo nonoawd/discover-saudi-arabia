@@ -2,8 +2,6 @@
 
 An interactive Arabic-language cultural website introducing Saudi Arabia's regions, historical landmarks, and important places. Built as a course project using PHP, MySQL, HTML, CSS, and JavaScript.
 
-**Live Demo:** [discoversaudi.noufalawwad.com](https://discoversaudi.noufalawwad.com)
-
 ---
 
 ## Pages
@@ -94,15 +92,3 @@ discover-saudi-arabia/
 │   └── auth_check.php # Session guard
 └── uploads/           # Uploaded images (not included)
 ```
-
----
-
-## Team
-
-| Name | ID |
-|---|---|
-| Nouf Alawwad | 444201021 |
-| Rana Alhamdan | 444201131 |
-| Nouf Alsabti | 444200547 |
-
-King Saud University — College of Computer and Information Sciences
