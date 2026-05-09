@@ -33,9 +33,6 @@ An interactive Arabic-language cultural website introducing Saudi Arabia's regio
 ## Setup
 
 1. Clone the repository
-   ```bash
-   git clone https://github.com/yourusername/discover-saudi-arabia.git
-   ```
 
 2. Place the project folder inside `htdocs` (XAMPP) or `www` (WAMP)
 
